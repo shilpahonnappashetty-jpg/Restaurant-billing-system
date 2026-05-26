@@ -1,0 +1,29 @@
+===== Welcome to Foodie's Corner =====
+
+------------- Menu -------------
+1. Veg Burger           Rs. 80
+2. Cheese Pizza         Rs. 150
+3. French Fries         Rs. 70
+4. Cold Coffee          Rs. 90
+5. Chocolate Brownie    Rs. 120
+0. Finish Order
+
+Enter item number: 2
+Enter quantity: 1
+Added Cheese Pizza x 1 to your order.
+
+Enter item number: 3
+Enter quantity: 2
+Added French Fries x 2 to your order.
+
+Enter item number: 0
+
+------------- Bill -------------
+Cheese Pizza         x 1 = Rs. 150
+French Fries         x 2 = Rs. 140
+
+Subtotal: Rs. 290.00
+Tax 5%: Rs. 14.50
+Total Bill: Rs. 304.50
+
+Thank you for visiting Foodie's Corner!
